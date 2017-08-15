@@ -1,0 +1,27 @@
+body {
+margin:auto; padding: auto;
+font-family: Verdana, Tahoma;
+font-size: inherit;
+color: #222222;}
+a:visited, a:link {
+color : dodgerblue;
+text-decoration:none;
+}a:hover,a:active{
+color:#696969;}
+
+.header{background:#f1c40f;color:#2c3e50;padding: 15px;text-align:center;}
+
+.margin{margin:10px;}
+
+.title{background: #2c3e50;padding:8px;color:#FFFFFF;margin-left:10px;margin-right:10px}
+
+.menu{background:#f1c40f;border-left:solid 1px #2c3e50;border-bottom:solid 1px #2c3e50;border-right:solid 1px #2c3e50;padding:7px;margin-left:10px;margin-right:10px;}
+.br{padding-top: 10px;}
+.top{border:solid 1px #2c3e50;background:#2c3e50;padding:7px;margin-top:10px;margin-left:10px;margin-right:10px;}.footer{background: #34495e;text-align:center;color:white;padding:10px;}
+.news{background:white;border-left:solid 1px #2c3e50;border-right:solid 1px #2c3e50;border-bottom:solid 1px #2c3e50;padding:5px;margin-left:10px;margin-right:10px;}
+.paging {background:lavender;margin-left:10px;margin-right:10px;border-right:solid 1px #2c3e50;border-left:solid 1px #2c3e50;border-bottom:solid 1px #2c3e50;padding:7px;}
+.download{background:olivedrab;text-align:center;font-weight:bold;border-left:solid 1px #2c3e50;border-right:solid 1px #2c3e50;border-bottom:solid 1px #2c3e50;margin-left:10px;margin-right:10px;padding:12px;color:white;}
+.jump{background:lavender;border-left:solid 1px #2c3e50;border-bottom:solid 1px #2c3e50;border-right:solid 1px #2c3e50;padding:7px;color:white;}
+
+input[type='submit'],input[type='button'] {margin:2px;background-color: #333; color: #ffffff; border: 1px #000 solid; padding: 4px;} input,select {border: 1px lightsteelblue solid; color: #000; font-weight: bold;margin:2px; background-color: #FFFAFA; padding: 4px;}
+textarea{color: #333; background: #FFFAFA;margin:2px; width: 95%; height: 30px; margin-bottom: 2px; padding: 4px; font-family: Arial; font-size: 13px; font-weight: bold; border: 1px solid lightsteelblue;}
